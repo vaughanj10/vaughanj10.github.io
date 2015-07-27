@@ -6,6 +6,7 @@ description:
 logo: james_logo.png
 search: true
 url: https://vaughanj10.github.io
+comments: true
 
 # Jekyll configuration
 
@@ -34,7 +35,7 @@ owner:
   name: James Vaughan
   avatar: james_bio.png
   email: vaughanj10@gmail.com
-  disqus-shortname:
+  disqus-shortname: vaughanj10
   twitter: #username
   facebook: #username
   github: vaughanj10
