@@ -36,20 +36,5 @@ owner:
   avatar: james_bio.png
   email: vaughanj10@gmail.com
   disqus-shortname: vaughanj10
-  twitter: #username
-  facebook: #username
   github: vaughanj10
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+  stackexchange: https://stackoverflow.com/users/1307013/vaughanj10
