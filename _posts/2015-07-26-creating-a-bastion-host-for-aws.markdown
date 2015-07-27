@@ -4,7 +4,7 @@ title: Creating a Bastion Host for AWS
 modified:
 categories: 
 excerpt:
-tags: []
+tags: ["aws", "bastion host", "security"]
 image:
   feature:
 date: 2015-07-26T20:19:57-05:00
